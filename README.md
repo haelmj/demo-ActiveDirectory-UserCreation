@@ -10,5 +10,5 @@ This is a demonstration showing some of the different methods of automating *Win
 
 ### Requirements
 - *All methodologies are to be run on a Windows Server Operating System.*
-- *Server should be running as a Domain Controller with Active Directory Domain Service installed*
+- *Server should be running as a Domain Controller with Active Directory Domain Service installed*  
 **Note**: *All would require existence of a csv file containing user information.*
