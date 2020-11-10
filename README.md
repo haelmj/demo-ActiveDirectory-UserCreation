@@ -7,6 +7,7 @@ This is a demonstration showing some of the different methods of automating *Win
   - Using `csvde` tool
 - Using powershell script
 - Using python
+  - Using `dsadd` tool
 
 ### Requirements
 - *All methodologies are to be run on a Windows Server Operating System.*
